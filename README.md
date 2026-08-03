@@ -18,6 +18,4 @@ This Java console application is the Week 1 foundation for the SDC330 course pro
 3. Select **Run Java**.
 4. Enter `1`, `2`, or `3` at the menu prompt.
 
-## GitHub submission
 
-After committing the project to GitHub, create a tag named `Phase #1` and submit the URL for that tag in Canvas.
